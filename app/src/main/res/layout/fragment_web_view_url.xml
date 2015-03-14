@@ -1,0 +1,18 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    tools:context="ru.diver_studio.smartum.WebViewURLActivity$PlaceholderFragment">
+
+    <WebView
+        android:id="@+id/mwebView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    </WebView>
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Konsul\AndroidstudioProjects\SmartUM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Konsul\AndroidstudioProjects\SmartUM\app\build\intermediates\pre-dexed\debug\classes-130474c9cc258abced23c750351f3cab5066b39e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Konsul\AndroidstudioProjects\SmartUM\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Konsul\AndroidstudioProjects\SmartUM\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-e76c6770481e89ee532e29e4bd145b9ee926ec52.jar" />
+    </item>
+    <item
+        jar="C:\Users\Konsul\AndroidstudioProjects\SmartUM\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Konsul\AndroidstudioProjects\SmartUM\app\build\intermediates\pre-dexed\debug\classes-4c3be8993f2231938087e120a107224e529bf37c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Konsul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Konsul\AndroidstudioProjects\SmartUM\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-c30893397a04983781f318ec6716cf2063507162.jar" />
+    </item>
+    <item
+        jar="C:\Users\Konsul\AndroidstudioProjects\SmartUM\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\Users\Konsul\AndroidstudioProjects\SmartUM\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-c16f7abb3c245ce6c91cf85a1de5fcba606521aa.jar" />
+    </item>
+
+</items>

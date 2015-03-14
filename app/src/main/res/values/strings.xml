@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmartUM</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About</string>
+    <string name="title_activity_web_view_url">UMech</string>
+
+    <string name="news_button_text">UNIVERSITY NEWS</string>
+
+    <string name="title_activity_hometask">Hometasks</string>
+    <string name="button_hometask">HOMETASK</string>
+    <string name="add_new">Add new</string>
+    <string name="title_activity_hometask_activity_detail">Hometask details</string>
+
+
+    <string name="deleteTask">Are you sure, you want to delete it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

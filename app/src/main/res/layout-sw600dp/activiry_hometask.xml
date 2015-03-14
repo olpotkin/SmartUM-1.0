@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal">
+    <fragment android:id="@+id/headlines"
+        android:layout_height="fill_parent"
+        android:name="ru.diver_studio.smartum.HometaskActivity$HometaskListFragment"
+        android:layout_width="400dp"
+        android:layout_marginRight="10dp"/>
+    <fragment android:id="@+id/article"
+        android:layout_height="fill_parent"
+        android:name="ru.diver_studio.smartum.HometaskActivityDetail$PlaceholderFragment"
+        android:layout_width="fill_parent" />
+</LinearLayout>

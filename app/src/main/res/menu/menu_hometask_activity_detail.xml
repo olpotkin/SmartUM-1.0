@@ -1,0 +1,17 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.diver_studio.smartum.HometaskActivityDetail">
+
+    <item
+        android:id="@+id/Edit_Task"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText"
+        android:title="Edit"/>
+    <item
+        android:id="@+id/Delete_Task"
+        android:orderInCategory="101"
+        app:showAsAction="ifRoom|withText"
+        android:title="Delete"/>
+</menu>

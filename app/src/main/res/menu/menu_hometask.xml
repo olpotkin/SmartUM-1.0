@@ -1,0 +1,14 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ru.diver_studio.smartum.HometaskActivity">
+
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/button_add"
+        android:title="@string/add_new"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>

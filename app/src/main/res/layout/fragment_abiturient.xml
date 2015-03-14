@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingBottom="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:orientation="vertical"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/a_btn_1"
+                android:layout_width="fill_parent"
+                android:layout_height="90dp"
+                android:text="ADMISSION NEWS"/>
+
+            <Button
+                android:id="@+id/a_btn_2"
+                android:layout_width="fill_parent"
+                android:layout_height="90dp"
+                android:text="AREAS OF STUDY"/>
+
+            <Button
+                android:id="@+id/a_btn_3"
+                android:layout_width="fill_parent"
+                android:layout_height="90dp"
+                android:text="MASTER COURSES"/>
+
+            <Button
+                android:id="@+id/a_btn_4"
+                android:layout_width="fill_parent"
+                android:layout_height="90dp"
+                android:text="DORMITORY"/>
+
+            <Button
+                android:id="@+id/a_btn_5"
+                android:layout_width="fill_parent"
+                android:layout_height="90dp"
+                android:text="OPEN DOORS DAYS"/>
+
+            <Button
+                android:id="@+id/a_btn_6"
+                android:layout_width="fill_parent"
+                android:layout_height="90dp"
+                android:text="ASK a QUESTION"/>
+
+            <Button
+                android:id="@+id/a_btn_7"
+                android:layout_width="fill_parent"
+                android:layout_height="90dp"
+                android:text="FAQ"/>
+
+            <Button
+                android:id="@+id/a_btn_8"
+                android:layout_width="fill_parent"
+                android:layout_height="90dp"
+                android:text="DISTANCE EDUCATION CENTER"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
